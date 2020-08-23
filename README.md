@@ -7,14 +7,6 @@
 
 ### ✨ [GitHub](https://github.com/ramsaygonzalez/WorkoutTracker)
 
-## Author
-
-👤 **Ramsay Gonzalez**
-
-* Github: [@ramsaygonzalez](https://github.com/ramsaygonzalez)
-
-)
-
 
 ## Author
 
